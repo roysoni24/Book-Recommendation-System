@@ -48,9 +48,9 @@ In this .ipynb file, we have -
 
 • EDA on Book Recommendation system.
 
-• 
+• Applying different ML models
 
-• 
+• Conclusion
 
 **2) Kaggle Dataset**
 
